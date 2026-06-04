@@ -64,3 +64,11 @@ Cursor 또는 ChatGPT에 사용한 질문과 프롬프트를 기록하는 공간
     - 학습 구조 설계
     - 01 Tokenization 일부 정리
 ```
+
+```text
+2026-06-04
+    - 01 Tokenization 정리
+    - git 저장
+    - 02 Embedding 정리
+```
+
