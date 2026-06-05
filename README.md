@@ -73,3 +73,13 @@ Cursor 또는 ChatGPT에 사용한 질문과 프롬프트를 기록하는 공간
     - git "Add embedding notes"
     - git "Update learning log"
 ```
+
+```text
+2026-06-05
+    - 03 Attention 정리  
+    - git "Add attention notes"  
+    - 04 Transformer 정리  
+    - git "Add transformer notes"  
+    - 05 Next Token Prediction 이해중  
+    - git "Update learning log 0605"
+```
