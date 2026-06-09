@@ -1,85 +1,65 @@
-# LLM Study Notes
+# LLM Study
 
-이 프로젝트는 대규모 언어 모델(LLM)의 동작 원리를 이해하기 위해 학습내용을 정리하는 개인 스터디 노트입니다. 
+LLM과 AI Application 개발을 공부하기 위한 개인 학습 저장소입니다.
 
-Cursor를 활용하여 질문하고, 답변을 정리하며, LLM의 핵심 개념을 단계적으로 학습하는 것을 목표로 합니다. 
+## Goals
 
-* LLM : Large Language Model
+* LLM의 동작 원리 이해
+* Python 기초 학습
+* OpenAI API 활용
+* RAG 구현
+* AI Agent 구현
+* AI 프로젝트 개발 역량 향상
 
+---
 
-## 목표
-
-- LLM이 텍스트를 처리하는 전체 흐름 이해
-- Tokenization, Embedding, Attention, Transformer 등의 핵심 개념 학습
-- Cursor를 활용한 AI 기반 학습 및 개발 워크플로우 익히기
-- Git/GitHub를 활용한 학습 기록 관리
-
-
-## 학습 순서
-
-- Tokenization
-- Embedding
-- Attention
-- Transformer
-- Next Token Prediction
-- Inference & Generation
-- RAG
-- AI Agent
-
-
-## 프로젝트 구조
+## Repository Structure
 
 ```text
-Jihei/
-└── llm-study/
-    ├── README.md
-    ├── notes/
-    │   └── 01_tokenization.md
-    ├── prompts/
-    │   └── cursor_questions.md
-    └── references/          
-
+llm-study/
+├── README.md
+├── Notes/
+└── Python/
+    ├── Notes/
+    └── Practice/
 ```
 
-## notes
+---
 
-학습한 내용을 주제별로 정리하는 공간
+## Notes
 
+### LLM Fundamentals
 
-## prompts
-Cursor 또는 ChatGPT에 사용한 질문과 프롬프트를 기록하는 공간
+* [x] 01 Tokenization
+* [x] 02 Embedding
+* [x] 03 Attention
+* [x] 04 Transformer
+* [x] 05 Next Token Prediction
+* [x] 06 Inference
+* [x] 07 Generation
+* [x] 08 RAG
+* [x] 09 AI Agent
 
+---
 
-## references
+## Python
 
-참고한 자료, 논문, 블로그 등을 정리하는 공간
+* [ ] 01 Variables
+* [ ] 02 Data Types
+* [ ] 03 List
+* [ ] 04 Dictionary
+* [ ] 05 Condition
+* [ ] 06 Loop
+* [ ] 07 Function
+* [ ] 08 File I/O
+* [ ] 09 JSON
+* [ ] 10 API Request
 
+---
 
-### 학습기록
+## Progress
 
-```text
-2026-06-02
-    - 프로젝트 생성
-    - README 작성
-    - 학습 구조 설계
-    - 01 Tokenization 일부 정리
-```
+Current Status:
 
-```text
-2026-06-04
-    - 01 Tokenization 정리
-    - git "Add tokenization notes"
-    - 02 Embedding 정리
-    - git "Add embedding notes"
-    - git "Update learning log"
-```
-
-```text
-2026-06-05
-    - 03 Attention 정리  
-    - git "Add attention notes"  
-    - 04 Transformer 정리  
-    - git "Add transformer notes"  
-    - 05 Next Token Prediction 이해중  
-    - git "Update learning log 0605"
-```
+* LLM Fundamentals: Completed
+* Python: In Progress
